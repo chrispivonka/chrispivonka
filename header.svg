@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="65" viewBox="0 0 600 65">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Righteous&amp;display=swap');
+      .title {
+        font-family: 'Righteous', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-size: 44px;
+        fill: #F0B72F;
+        stroke: #F0B72F;
+        stroke-width: 1.5px;
+        stroke-linejoin: round;
+        paint-order: stroke fill;
+        letter-spacing: 1.5px;
+        font-weight: 700;
+        text-anchor: middle;
+        dominant-baseline: central;
+      }
+    </style>
+  </defs>
+  <text x="50%" y="50%" class="title">Chris Pivonka</text>
+</svg>

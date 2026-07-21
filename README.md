@@ -1,126 +1,156 @@
-# Chris Pivonka
-<p align="center"> 
-  <a href="https://github.com/chrispivonka" target="_blank"><img alt="GitHub"
-      src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/chrispivonka" target="_blank"><img alt="LinkedIn"
-      src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.chrispivonka.com" target="_blank"><img alt="Website"
-      src="https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white"/></a>
+<div align="center">
+
+  <!-- Static Fancy SVG Header Name -->
+  <img src="./header.svg" alt="Chris Pivonka" />
+
+  <br/>
+
+  <!-- Dynamic High-Contrast Typing Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vcenter=true&width=620&lines=Software+Engineer+%26+Tech+Lead;Backend+Microservices+%40+Fandango;AWS+Cloud+%26+Distributed+Datastores;AI+Integration+%26+SRE+Observability" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- High-Contrast Theme Social Icons -->
+  <a href="https://www.chrispivonka.com" target="_blank" title="Personal Website">
+    <img height="32" width="32" src="https://api.iconify.design/lucide/globe.svg?color=%2358A6FF" alt="Website" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/chrispivonka" target="_blank" title="LinkedIn">
+    <img height="32" width="32" src="https://api.iconify.design/simple-icons/linkedin.svg?color=%2358A6FF" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/chrispivonka" target="_blank" title="GitHub">
+    <img height="32" width="32" src="https://api.iconify.design/simple-icons/github.svg?color=%2358A6FF" alt="GitHub" />
+  </a>
+
+  <br/><br/>
+
+  <!-- High-Contrast Profile Counter -->
+  <img src="https://komarev.com/ghpvc/?username=chrispivonka&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+<br/>
+
+### 🖥️ `$ whoami`
+
+```json
+{
+  "user": "Chris Pivonka",
+  "title": "Software Engineer / Tech Lead",
+  "location": "Denver, CO",
+  "experience": "12+ Years",
+  "company": {
+    "current": "Fandango (Tech Lead / Senior Software Engineer)",
+    "previous": [
+      "Northrop Grumman (Software Engineer & Test Integration Lead - 5 yrs)",
+      "Marquette University IT (IT Support Specialist & Student Manager - 2 yrs)"
+    ]
+  },
+  "education": "B.S. Computer Engineering @ Marquette University",
+  "specialties": [
+    "High-Scale Backend Microservices & System Design",
+    "Cloud Architecture & Automation (AWS / GCP / Terraform)",
+    "AI Integration & LLM Tooling (OpenAI / Gemini / Claude APIs)",
+    "High-Performance Datastores (PostgreSQL / DynamoDB / Redis)",
+    "SRE & Production Observability (CloudWatch / Kibana)"
+  ]
+}
+```
+
+<br/>
+
+### 🛠️ Tech Stack & Arsenal
+
+#### 🤖 AI Integration & LLM Tooling
+<p align="left">
+  <a href="https://openai.com/" target="_blank" title="OpenAI API"><img height="48" width="48" src="https://api.iconify.design/simple-icons/openai.svg?color=white" style="background: #18181b; padding: 10px; border-radius: 12px; box-sizing: border-box;" alt="OpenAI" /></a>
+  <a href="https://gemini.google.com/" target="_blank" title="Google Gemini API"><img height="48" width="48" src="https://api.iconify.design/simple-icons/googlegemini.svg?color=white" style="background: #18181b; padding: 10px; border-radius: 12px; box-sizing: border-box;" alt="Gemini" /></a>
+  <a href="https://www.anthropic.com/" target="_blank" title="Claude API"><img height="48" width="48" src="https://api.iconify.design/simple-icons/anthropic.svg?color=white" style="background: #18181b; padding: 10px; border-radius: 12px; box-sizing: border-box;" alt="Claude" /></a>
 </p>
 
-## About me
-### Work experience
-- I'm currently a software engineer at ![Fandango](https://img.shields.io/badge/Fandango-FF7300?logo=fandango&logoColor=fff&style=flat).
-- Previously:
-  - 5 years as a software engineer ![Northrop Grumman](https://img.shields.io/badge/NG-Northrop_Grumman-000000?labelColor=000000&style=flat).
-  - 2 years as a IT Support Services Student Manager/Student Technical Support Specialist at ![Marquette University](https://img.shields.io/badge/MU-Marquette_University-ffcc00?labelColor=003366&style=flat).
+#### 💻 Core Languages & Systems
+<p align="left">
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" title="C#"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+  <a href="https://www.rust-lang.org/" target="_blank" title="Rust"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a>
+  <a href="https://isocpp.org/" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://en.cppreference.com/w/c" target="_blank" title="C"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+  <a href="https://dev.java/" target="_blank" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+</p>
 
-### Education
-B.S. Computer Engineering (2014) from ![Marquette University](https://img.shields.io/badge/MU-Marquette_University-ffcc00?labelColor=003366&style=flat).
+#### ☁️ Backend, Cloud & Datastores
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" title="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://cloud.google.com/" target="_blank" title="Google Cloud"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" /></a>
+  <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank" title="Express"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank" title="DynamoDB"><img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://redis.io/" target="_blank" title="Redis"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
+  <a href="https://www.terraform.io/" target="_blank" title="Terraform"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
+</p>
+
+#### 📈 Observability & DevOps
+<p align="left">
+  <a href="https://aws.amazon.com/cloudwatch/" target="_blank" title="CloudWatch"><img height="48" width="48" src="https://api.iconify.design/simple-icons/amazoncloudwatch.svg?color=white" style="background: #18181b; padding: 10px; border-radius: 12px; box-sizing: border-box;" alt="CloudWatch" /></a>
+  <a href="https://www.cloudflare.com/" target="_blank" title="Cloudflare"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a>
+  <a href="https://www.elastic.co/elasticsearch" target="_blank" title="Elasticsearch"><img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" /></a>
+  <a href="https://www.elastic.co/kibana" target="_blank" title="Kibana"><img height="48" width="48" src="https://api.iconify.design/simple-icons/kibana.svg?color=white" style="background: #18181b; padding: 10px; border-radius: 12px; box-sizing: border-box;" alt="Kibana" /></a>
+  <a href="https://github.com/features/actions" target="_blank" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
+  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://www.jenkins.io/" target="_blank" title="Jenkins"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /></a>
+</p>
+
+#### 🧪 Testing, Build & Security
+<p align="left">
+  <a href="https://jestjs.io/" target="_blank" title="Jest"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" /></a>
+  <a href="https://mochajs.org/" target="_blank" title="Mocha"><img height="48" width="48" src="https://api.iconify.design/simple-icons/mocha.svg?color=white" style="background: #18181b; padding: 10px; border-radius: 12px; box-sizing: border-box;" alt="Mocha" /></a>
+  <a href="https://docs.pytest.org/" target="_blank" title="Pytest"><img height="48" width="48" src="https://api.iconify.design/simple-icons/pytest.svg?color=white" style="background: #18181b; padding: 10px; border-radius: 12px; box-sizing: border-box;" alt="Pytest" /></a>
+  <a href="https://www.postman.com/" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <a href="https://snyk.io/" target="_blank" title="Snyk"><img height="48" width="48" src="https://api.iconify.design/simple-icons/snyk.svg?color=white" style="background: #18181b; padding: 10px; border-radius: 12px; box-sizing: border-box;" alt="Snyk" /></a>
+  <a href="https://cmake.org/" target="_blank" title="CMake"><img src="https://skillicons.dev/icons?i=cmake" alt="CMake" /></a>
+</p>
+
+<br/>
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+
+  <!-- Full-Width Profile Details Card -->
+  <a href="https://github.com/chrispivonka">
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrispivonka&theme=github_dark" alt="Profile Details"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- 3 Side-by-Side Cards (Stats, Most Used Languages, Productive Time in Local Time UTC-6) -->
+  <a href="https://github.com/chrispivonka">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chrispivonka&theme=github_dark" alt="GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/chrispivonka">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrispivonka&theme=github_dark" alt="Most Used Languages"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/chrispivonka">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chrispivonka&theme=github_dark&utcOffset=-6" alt="Productive Time (Local Time)"/>
+  </a>
+
+</div>
+
+<br/>
 
 ---
 
-## ⚡ Key Skills & Tools
-### 🧩 Core Languages & Systems
-<p align="center">
-  <a href="https://learn.microsoft.com/dotnet/" target="_blank"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/></a>
-  <a href="https://www.gnu.org/software/bash" target="_blank"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/></a>
-  <a href="https://en.cppreference.com/w/c" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/></a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
-  <a href="https://www.oracle.com/java/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-F80000?style=flat&logo=java&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
-  <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
-  <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank"><img alt="Shell Scripting" src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white"/></a>
-</p>
-
----
-
-### ☁️ Backend, Cloud & Datastores
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img alt="DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/></a>
-  <a href="https://redis.io/" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white"/></a>
-  <a href="https://www.terraform.io/" target="_blank"><img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white"/></a>
-</p>
-
----
-
-### 📈 Observability, Monitoring & SRE
-<p align="center">
-  <a href="https://aws.amazon.com/cloudwatch/" target="_blank"><img alt="CloudWatch" src="https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=flat&logo=Amazon%20CloudWatch&logoColor=white"/></a>
-  <a href="https://www.cloudflare.com/" target="_blank"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>
-  <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img alt="Elastic" src="https://img.shields.io/badge/Elastic_Search-005571?style=flat&logo=elasticsearch&logoColor=white"/></a>
-  <a href="https://www.elastic.co/kibana" target="_blank"><img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white"/></a>
-</p>
-
----
-
-### 🛠️ Dev Tooling, CI & Automation
-<p align="center">
-  <a href="https://git-scm.com" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
-  <a href="https://github.com/features/actions" target="_blank"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></a>
-  <a href="https://code.visualstudio.com" target="_blank"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/></a>
-</p>
-
----
-
-### 🎨 Frontend & Client Libraries
-<p align="center">
-  <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></a>
-  <a href="https://react.dev/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></a>
-  <a href="https://redux.js.org/" target="_blank"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white"/></a>
-</p>
-
----
-
-### 🧪 Testing & QA
-<p align="center">
-  <a href="https://www.chaijs.com/" target="_blank"><img alt="Chai" src="https://img.shields.io/badge/chai.js-323330?style=flat&logo=chai&logoColor=red"/></a>
-  <a href="https://jestjs.io/" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=flat&logo=jest&logoColor=white"/></a>
-  <a href="https://mochajs.org/" target="_blank"><img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white"/></a>
-  <a href="https://www.postman.com" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/></a>
-  <a href="https://pytest.org/" target="_blank"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"/></a>
-  <a href="https://sinonjs.org/" target="_blank"><img alt="Sinon" src="https://img.shields.io/badge/sinon.js-323330?style=flat&logo=sinon"/></a>
-</p>
-
----
-
-### 🔧 Build, Formatting & Security
-<p align="center">
-  <a href="https://babeljs.io/" target="_blank"><img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black"/></a>
-  <a href="https://eslint.org/" target="_blank"><img alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white"/></a>
-  <a href="https://prettier.io/" target="_blank"><img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E"/></a>
-  <a href="https://snyk.io/" target="_blank"><img alt="Snyk" src="https://img.shields.io/badge/Snyk-4C4A73?style=flat&logo=snyk&logoColor=white"/></a>
-  <a href="https://swagger.io/" target="_blank"><img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white"/></a>
-</p>
-
----
-
-### 📦 Platforms & Packaging
-<p align="center">
-  <a href="https://cmake.org" target="_blank"><img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white"/></a>
-  <a href="https://gradle.org" target="_blank"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/></a>
-  <a href="https://www.npmjs.com/" target="_blank"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/></a>
-  <a href="https://pypi.org/project/pip/" target="_blank"><img alt="pip" src="https://img.shields.io/badge/pip-3775A9?style=flat&logo=pypi&logoColor=white"/></a>
-  <a href="https://yarnpkg.com/" target="_blank"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white"/></a>
-</p>
-
----
-
-### 💻 OS & Platforms
-<p align="center">
-  <a href="https://www.kernel.org/" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/></a>
-  <a href="https://www.apple.com/macos/" target="_blank"><img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white"/></a>
-  <a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/></a>
-  <a href="https://learn.microsoft.com/windows/wsl/" target="_blank"><img alt="WSL" src="https://img.shields.io/badge/WSL-0a97f5?style=flat&logo=linux&logoColor=white"/></a>
-  <a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/></a>
-</p>
+<div align="center">
+  <sub>Built with passion by Chris Pivonka</sub>
+</div>
