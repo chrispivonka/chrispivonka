@@ -7,7 +7,7 @@
 
   <!-- Dynamic High-Contrast Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vcenter=true&width=620&lines=Software+Engineer+%26+Tech+Lead;Backend+Microservices+%40+Fandango;AWS+Cloud+%26+Distributed+Datastores;AI+Integration+%26+SRE+Observability" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vcenter=true&width=620&lines=Senior+Software+Engineer+%26+Tech+Lead;Backend+Microservices+%40+Fandango;AWS+Cloud+%26+Distributed+Datastores;AI+Integration+%26+SRE+Observability" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -39,11 +39,11 @@
 ```json
 {
   "user": "Chris Pivonka",
-  "title": "Software Engineer / Tech Lead",
+  "title": "Senior Software Engineer / Tech Lead",
   "location": "Denver, CO",
   "experience": "12+ Years",
   "company": {
-    "current": "Fandango (Tech Lead / Senior Software Engineer)",
+    "current": "Fandango (Senior Software Engineer / Tech Lead)",
     "previous": [
       "Northrop Grumman (Software Engineer & Test Integration Lead - 5 yrs)",
       "Marquette University IT (IT Support Specialist & Student Manager - 2 yrs)"
